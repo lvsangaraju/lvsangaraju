@@ -86,11 +86,13 @@
   </a>
 </p>
 
+<br><br>
 <p align="center">
   <marquee direction="right" scrollamount="4">
     🌱 I’m currently learning <b>Advanced AWS, Kubernetes, Distributed Systems and few more...</b>
   </marquee>
 </p>
+<br>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">

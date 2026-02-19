@@ -94,7 +94,7 @@
 </p>
 <br>
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+<h3 align="left">🧰 Languages & Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,go,c,spring,django,flask,react,angular,aws,docker,kubernetes,terraform,jenkins,kafka,redis,mongodb,mysql,postgres,linux,git" />
 </p>
